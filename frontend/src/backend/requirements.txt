@@ -1,0 +1,4 @@
+# Purpose: Python packages required for local resume parsing and matching.
+Flask>=3.0,<4.0
+pdfplumber>=0.10,<1.0
+python-docx>=1.0,<2.0
